@@ -1,0 +1,11 @@
+# On Windows (cmd)
+.venv\Scripts\activate
+
+# On Windows (PowerShell)
+.venv\Scripts\Activate.ps1
+
+# On Git Bash or WSL
+source .venv/Scripts/activate
+
+
+deactivate
